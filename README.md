@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex.gif"></h1>
+<h1 align="center" style="margin-bottom: -24px;"><img src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex.gif"></h1>
 <h3 align="center">A passionate developer from the US.</h3>
 
 <h3 align="left">Connect with me:</h3>
