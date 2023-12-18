@@ -1,4 +1,4 @@
-![me](https://github.com/Kyvex/Kyvex/blob/main/Kyvex.gif)
+<div align="center">![me](https://github.com/Kyvex/Kyvex/blob/main/Kyvex.gif)</div>
 <h3 align="center">A passionate developer from the US.</h3>
 
 <h3 align="left">Connect with me:</h3>
