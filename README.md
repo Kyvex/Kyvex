@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: -96px;">[![Kyvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyvex)](https://github.com/anuraghazra/github-readme-stats)</h1>
+[![Kyvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyvex)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">A passionate developer from the US.</h3>
 
 <h3 align="left" class="test">Languages and Tools:</h3>
