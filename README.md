@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/11869714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11869714" height="30" width="40" /></a>
+[![Kyvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyvex)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 [![Kyvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyvex)](https://github.com/anuraghazra/github-readme-stats)
