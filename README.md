@@ -1,5 +1,5 @@
 
-<img width="256" height"256" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png">
+<img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png">
 <h3 align="center">A passionate developer from the US.</h3>
 
 <h3 align="left" class="test">Languages and Tools:</h3>
