@@ -1,4 +1,4 @@
-[![Kyvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyvex)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyvex)](https://github-readme-stats.vercel.app/api?username=Kyvex)
 <h3 align="center">A passionate developer from the US.</h3>
 
 <h3 align="left" class="test">Languages and Tools:</h3>
