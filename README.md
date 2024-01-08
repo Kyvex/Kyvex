@@ -1,5 +1,4 @@
-
-<img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png">
+<h1 align="center"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"></h1>
 <h3 align="center">A passionate developer from the US.</h3>
 
 <h3 align="left" class="test">Languages and Tools:</h3>
