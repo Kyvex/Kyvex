@@ -1,4 +1,4 @@
-<h1 align="center" style="display: flex; justify-content: center;"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"><span>Hi! I'm Kyvex. Welcome to my profile.</span><img src="https://github-readme-stats.vercel.app/api?username=Kyvex&show_icons=true&theme=gotham" alt="Kyvex" /></h1>
+<h1 align="center" style="display: flex; justify-content: center;"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"><div style="display: flex; flex-direction: column"><span>Hi! I'm Kyvex. Welcome to my profile.</span><img src="https://github-readme-stats.vercel.app/api?username=Kyvex&show_icons=true&theme=gotham" alt="Kyvex" /></div></h1>
 <h3 align="center">A passionate developer from the US.</h3>
 
 <h3 align="left" class="test">Languages and Tools:</h3>
