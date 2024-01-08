@@ -3,7 +3,7 @@
 
 I'm a Software Developer from the United States. I'm experienced in a few languages and frameworks that are listed at the bottom of this page. When I'm not working (which is hardly ever) I'm either at the bowling alley or kicking back and studying the Bible while smoking a nice cigar with a glass of Rumchata and Rootbeer mixed.
 
-<h4 align="left">You can reach me by the links below:</h4>
+## You can reach me by the links below:
 * Discord (kyvex)
 
 <h4 align="left">Languages and Frameworks:</h4>
