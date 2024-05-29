@@ -3,8 +3,6 @@
 
 My name is Kyvex, I'm 25. I've been writing Software for roughly 7 years. I specialize in Python, Django, JS, HTML and CSS, but I've also built a few applications in .NET
 
-When I'm not working (which is hardly ever) I'm either at the bowling alley or studying the Bible while smoking a nice cigar alongside a mixed glass of Rumchata and Rootbeer. 
-
 ### You can reach me by the links below: ###
 * Discord (kyvex)
 
