@@ -1,4 +1,4 @@
-<h1 align="center" style="display: flex; justify-content: center;"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"><img src="https://github-readme-stats.vercel.app/api?username=Kyvex&show_icons=true&theme=gotham" alt="Kyvex" /><a href="https://app.daily.dev/kyvex"><img src="https://api.daily.dev/devcards/v2/xuDjmC2cO5Mm5tnZuGEeE.png?type=wide&r=740" width="652" alt="Kyvex's Dev Card"/></a></h1>
+<h1 align="center" style="display: flex; justify-content: center;"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"><img src="https://github-readme-stats.vercel.app/api?username=Kyvex&show_icons=true&theme=gotham" alt="Kyvex" /><a href="https://app.daily.dev/kyvex"><img src="https://api.daily.dev/devcards/v2/xuDjmC2cO5Mm5tnZuGEeE.png?type=wide&r=mfh" width="652" alt="Kyvex's Dev Card"/></a></h1>
 
 <h3 align="center">Hey there! I'm Kyvex. Welcome to my profile.</h3>
 
