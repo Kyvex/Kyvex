@@ -1,9 +1,8 @@
-<h1 align="center" style="display: flex; justify-content: center;"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"></h1>
+<h1 align="center" style="display: flex; justify-content: center;"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"><a href="https://app.daily.dev/kyvex"><img src="https://api.daily.dev/devcards/v2/xuDjmC2cO5Mm5tnZuGEeE.png?type=wide&r=mfh" width="512" alt="Kyvex's Dev Card"/></a></h1>
 
-<a style="width: 100%">
+<a style="width: 100%; position: relative; align-items: center">
   <img src="https://render.gitanimals.org/farms/Kyvex"/>
 </a>
-<a href="https://app.daily.dev/kyvex"><img src="https://api.daily.dev/devcards/v2/xuDjmC2cO5Mm5tnZuGEeE.png?type=wide&r=mfh" width="512" alt="Kyvex's Dev Card"/></a>
 
 <h3 align="center">Hey there! I'm Kyvex. Welcome to my profile.</h3>
 
