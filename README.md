@@ -1,5 +1,9 @@
 <h1 align="center" style="display: flex; justify-content: center;"><img style="width: 256px; height: 256px;" src="https://github.com/Kyvex/Kyvex/blob/main/Kyvex-wave.png"><a href="https://app.daily.dev/kyvex"><img src="https://api.daily.dev/devcards/v2/xuDjmC2cO5Mm5tnZuGEeE.png?type=wide&r=mfh" width="512" alt="Kyvex's Dev Card"/></a></h1>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Kyvex"/>
+</a>
+
 <h3 align="center">Hey there! I'm Kyvex. Welcome to my profile.</h3>
 
 My name is Kyvex, I'm 26. I've been writing Software for roughly 6 years. I specialize in Python, Django, JS, HTML and CSS, but I've also built a few applications in .NET
