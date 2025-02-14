@@ -1,6 +1,3 @@
-<a href="https://app.daily.dev/kyvex"><img src="https://api.daily.dev/devcards/v2/xuDjmC2cO5Mm5tnZuGEeE.png?type=wide&r=l9u" width="652" alt="Kyvex's Dev Card"/></a></h1>
-
-
 <h3 align="center">Hey there! I'm Kyvex. Welcome to my profile.</h3>
 
 My name is Kyvex, I'm 26. I've been writing Software for roughly 7 years. I specialize in Python, Django, JS, HTML and CSS, but I've also built a few applications in .NET
