@@ -1,4 +1,4 @@
-<h3 align="center">Hey there! I'm Griffin Welcome to my profile.</h3>
+<h3 align="center">Hey there! Welcome to my profile.</h3>
 
 My name is Griffin, I'm 26. I've been writing Software for roughly 8 years. I specialize in Python, Django, JS, HTML and CSS, but I've also built a few applications in .NET
 
